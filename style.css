@@ -1,0 +1,20 @@
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+  align-items: center; 
+  background-color: palevioletred;
+}
+
+button {
+  margin-top: 20%;
+  font-family: Arial, Helvetica, sans-serif;
+  width: 300px;
+  height: 200px;
+  font-size: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
